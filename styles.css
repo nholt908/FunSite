@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(90deg, rgb(15, 15, 208), lightyellow);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(226, 227, 255);
+}
+
+h1{
+    font-family: "Updock", serif;
+    font-size: 50px;
+    color: rgb(167, 227, 255);
+    text-shadow: 3px 3px 3px rgb(126, 12, 231);
+}
+
+p{
+    padding-right: 30%;
+}
+
+.quote{
+    background-color: rgb(27, 180, 214);
+    margin: 20%;
+    padding: 3px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.button{
+    text-decoration: none;
+    background-color: rgb(229, 246, 141);
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(44, 107, 245);
+}
+
+.button:hover{
+    text-decoration: underline;
+    background-color: rgb(158, 13, 119);
+    color: rgb(245, 171, 44);
+    font-size: 100px;
+}
